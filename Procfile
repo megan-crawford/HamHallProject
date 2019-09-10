@@ -1,1 +1,1 @@
-web: gunicorn MegaBat.wsgi --log-file -
+web: gunicorn HamHallProject.wsgi --log-file -
